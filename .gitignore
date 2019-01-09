@@ -12,7 +12,8 @@
 model
 
 # data
-data
+data/*
+!data/model/
 
 # notebook
 notebook/.ipynb_checkpoints
